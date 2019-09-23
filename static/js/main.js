@@ -12,6 +12,8 @@ else{
         slidesToScroll: 1,
         dots: false,
         infinite: true,
+        autoplay: true,
+        autoplaySpeed: 3000,
         cssEase: 'linear'
     });
 })(jQuery);

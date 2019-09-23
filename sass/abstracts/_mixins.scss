@@ -32,3 +32,15 @@
   }
 }
 
+
+/// Responsive
+
+$tablet-width: 950px;
+$mobile-width: 420px;
+
+@mixin mobile {
+  @media (max-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
