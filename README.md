@@ -1,4 +1,4 @@
-# Ecolink Project with Pug & Sass via Rendy Syabany
+# Ecolink Project with Pug & Sass
 
 This project has developing with Pug & Sass technology to build Static page
 
@@ -22,3 +22,9 @@ to run grunt file for running the task running in these files on the package.
 Then you can edit or develop more action on .pug for HTML and .scss for CSS files and it will automatically build to HTML and CSS static or public pages.
 
 ## in node to begin watching for changes to any .pug files. index.pug will compile to index.html.
+
+```
+For more information, you can contact me on syabany.com or send me an email me@syabany.com
+```
+
+#Thank You
