@@ -24,7 +24,7 @@ Then you can edit or develop more action on .pug for HTML and .scss for CSS file
 ## in node to begin watching for changes to any .pug files. index.pug will compile to index.html.
 
 ```
-For more information, you can contact me on syabany.com or send me an email me@syabany.com
+For more information, you can touch me on syabany.com or send me an email me@syabany.com
 ```
 
-#Thank You
+# Thank You
