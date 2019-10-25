@@ -1,15 +1,24 @@
-# Pug Sass Starter Kit via Syabany
+# Ecolink Project with Pug & Sass via Rendy Syabany
 
-A packaged for pug and sass project starter kit
+This project has developing with Pug & Sass technology to build Static page
 
 ## Usage
 
 After download type in your terminal.
 
+run
+```
+npm install
+```
+to coming up node packages.
+
+Then run
+
 ```
 grunt w
 ```
+to run grunt file for running the task running in these files on the package.
 
-in node to begin watching for changes to any .pug files. index.pug will compile to index.html.
-=======
-# elink-eco-page
+Then you can edit or develop more action on .pug for HTML and .scss for CSS files and it will automatically build to HTML and CSS static or public pages.
+
+## in node to begin watching for changes to any .pug files. index.pug will compile to index.html.
